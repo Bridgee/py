@@ -2,7 +2,7 @@
 Make it more robust.
 Stop episode once the finger stop at the final position for 50 steps.
 Feature & reward engineering.
-try version control
+try version control+1
 """
 from env import ArmEnv
 from rl import DDPG
