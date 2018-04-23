@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4e2407-24b4-4557-ae67-a828e378ab1a" name="Default" comment="" />
+    <list default="true" id="9f4e2407-24b4-4557-ae67-a828e378ab1a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +29,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="76">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -45,6 +48,16 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -60,6 +73,7 @@
     <option name="width" value="2800" />
     <option name="height" value="1920" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -176,6 +190,14 @@
       <option name="presentableId" value="Default" />
       <updated>1524465841167</updated>
     </task>
+    <task id="LOCAL-00001" summary="try in pycharm">
+      <created>1524466626400</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524466626400</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -191,11 +213,11 @@
     <frame x="-6" y="-6" width="1513" height="1013" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" weight="0.329849" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.3395189" side_tool="true" weight="0.32868758" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.4054983" side_tool="true" weight="0.3379791" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="4" sideWeight="0.6604811" weight="0.32868758" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="3" visible="true" weight="0.3379791" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info anchor="bottom" id="Python Console" order="3" sideWeight="0.59450173" visible="true" weight="0.3379791" />
       <window_info anchor="bottom" id="Terminal" order="5" weight="0.329849" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49824563" visible="true" weight="0.14158076" />
       <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
@@ -224,6 +246,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="try in pycharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="try in pycharm" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/rl.py">
@@ -247,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
