@@ -7,7 +7,7 @@ y = m.addVar(ub=1.0, name='y')
 z = m.addVar(ub=1.0, name="z")
 
 obj = x*x + x*y + y*y + y*z + z*z + 2*x
-m.setObjective(obj)
+m.setObjective(obj, GRB.MINIMIZE)
 
 m.addConstr(x + 2 * y + 3 * z >= 4, "c0")
 m.addConstr(x + y >= 1, "c1")
